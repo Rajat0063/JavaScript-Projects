@@ -3,7 +3,7 @@
 This is a sleek and minimalistic digital clock interface that combines analog and digital time displays. The central feature is an analog clock with red and white hands, set against a black background for maximum contrast and readability. Below the clock face, the current time is displayed in a bold, digital format, followed by the date in smaller text. A toggle button at the top allows users to switch between "Light mode" and "Dark mode," catering to different viewing preferences.
 
 
-![screenshot](/assets/image.png)
+![screenshot](/Clock%20Theme/assets/image.png)
 
 ## 🛠 Built With 
 
