@@ -3,7 +3,7 @@
 This is a minimalist design for the classic Snake game. The interface features a dark background that enhances the visual contrast. At the center is the gameplay grid, where the snake, represented by a white block, moves to collect a yellow block representing the target. A vertical "RESTART" button is placed on the left for quick access, and the score is displayed on the right in a bold, modern font. Below the game grid, the title "SNAKE" is styled with attribution to its creator, adding a personal touch to the game interface.
 
 
-![screenshot](/Clock%20Theme/assets/image.png)
+![screenshot](/Snake%20Game/assets/image.png)
 
 ## 🛠 Built With 
 
