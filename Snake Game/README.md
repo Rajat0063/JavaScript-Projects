@@ -1,6 +1,6 @@
 # 🕒 Clock Theme <a name="about-project"></a>
 
-This is a sleek and minimalistic digital clock interface that combines analog and digital time displays. The central feature is an analog clock with red and white hands, set against a black background for maximum contrast and readability. Below the clock face, the current time is displayed in a bold, digital format, followed by the date in smaller text. A toggle button at the top allows users to switch between "Light mode" and "Dark mode," catering to different viewing preferences.
+This is a minimalist design for the classic Snake game. The interface features a dark background that enhances the visual contrast. At the center is the gameplay grid, where the snake, represented by a white block, moves to collect a yellow block representing the target. A vertical "RESTART" button is placed on the left for quick access, and the score is displayed on the right in a bold, modern font. Below the game grid, the title "SNAKE" is styled with attribution to its creator, adding a personal touch to the game interface.
 
 
 ![screenshot](/Clock%20Theme/assets/image.png)
@@ -20,7 +20,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://javascript-projects02-yr.vercel.app/)
+- [Live Demo Link](https://java-script-projects03-yr.vercel.app/)
 
 
 ## ⭐️ Show your support 
