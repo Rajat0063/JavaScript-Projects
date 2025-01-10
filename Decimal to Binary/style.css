@@ -11,7 +11,7 @@
   }
   
   body {
-    background-color: #19172e;
+    background-color: #3ABEF9;
   }
   
   .container {
@@ -19,8 +19,8 @@
     height: 500px;
     margin: 3rem auto;
     text-align: center;
-    background: rgba(255, 255, 255, 0.05);
-    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+    background: #050C9C;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
     border-radius: 20px;
     backdrop-filter: blur(20px);
     display: flex;
@@ -33,7 +33,7 @@
   .container h2 {
     position: absolute;
     top: 10px;
-    color: white;
+    color: #A7E6FF;
   }
   
   .container .input {
@@ -48,7 +48,7 @@
   
   .container .input h4 {
     text-align: left;
-    color: rgba(255, 255, 255, 0.795);
+    color: #A7E6FF;
     font-size: 16px;
     margin-bottom: 5px;
     font-weight: 400;
@@ -74,7 +74,8 @@
     margin: 20px 0;
     font-size: 18px;
     border-radius: 3px;
-    background-color: white;
+    background-color: #3572EF;
+    color: #A7E6FF;
     cursor: pointer;
     transition: all 300ms ease;
   }
@@ -96,21 +97,31 @@
     -webkit-appearance: none;
     margin: 0;
   }
-  
-  footer {
-    color: white;
-    position: absolute;
-    text-align: center;
-    font-size: 1rem;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    padding: 5px;
-    line-height: 3vh;
+
+  input[type="number"], input[type="text"] {
+    background-color: #A7E6FF;
   }
   
-  footer a:visited {
+  footer {
+    color: #050C9C;
+  }
+  
+  #author {
+    width: 100%;
+    bottom: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
     color: inherit;
+    text-transform: uppercase;
+    padding-left: 35px;
+  }
+  #author span {
+    font-size: 10px;
+    margin-left: 20px;
+    color: inherit;
+    letter-spacing: 4px;
   }
   
   
