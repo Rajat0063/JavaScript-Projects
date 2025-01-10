@@ -1,4 +1,4 @@
-# <img src="/Decimal to Binary/assets/Binary icon.png"> Decimal to Binary Converter <a name="about-project"></a>
+# 🔢 Decimal to Binary Converter <a name="about-project"></a>
 
 This simple and elegant interface is built for converting decimal numbers to binary. At the top, the title "Decimal To Binary" clearly defines its purpose. Below it, an input field labeled "Number to Convert" allows users to enter a decimal number. A "Convert" button is positioned prominently to execute the conversion. The resulting binary value is displayed in a read-only field labeled "Result." The design uses a soft purple palette with subtle shadows, creating a clean and modern look.
 
