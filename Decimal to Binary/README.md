@@ -1,9 +1,9 @@
-# 🕒 Clock Theme <a name="about-project"></a>
+# 🔢 Decimal to Binary Converter <a name="about-project"></a>
 
-This is a sleek and minimalistic digital clock interface that combines analog and digital time displays. The central feature is an analog clock with red and white hands, set against a black background for maximum contrast and readability. Below the clock face, the current time is displayed in a bold, digital format, followed by the date in smaller text. A toggle button at the top allows users to switch between "Light mode" and "Dark mode," catering to different viewing preferences.
+This simple and elegant interface is built for converting decimal numbers to binary. At the top, the title "Decimal To Binary" clearly defines its purpose. Below it, an input field labeled "Number to Convert" allows users to enter a decimal number. A "Convert" button is positioned prominently to execute the conversion. The resulting binary value is displayed in a read-only field labeled "Result." The design uses a soft purple palette with subtle shadows, creating a clean and modern look.
 
 
-![screenshot](/Clock%20Theme/assets/image.png)
+![screenshot](/Decimal%20to%20Binary/assets/image.png)
 
 ## 🛠 Built With 
 
@@ -20,7 +20,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://javascript-projects02-yr.vercel.app/)
+- [Live Demo Link](https://java-script-projects04-yr.vercel.app/)
 
 
 ## ⭐️ Show your support 

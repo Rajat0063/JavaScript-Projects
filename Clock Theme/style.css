@@ -136,3 +136,24 @@ body {
     transition: all 0.5s ease-in;
     font-size: 12px;
 }
+footer {
+    color: #050C9C;
+  }
+  
+  #author {
+    width: 100%;
+    margin-top: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    color: inherit;
+    text-transform: uppercase;
+    padding-left: 35px;
+  }
+  #author span {
+    font-size: 10px;
+    margin-left: 20px;
+    color: inherit;
+    letter-spacing: 4px;
+  }
