@@ -27,18 +27,21 @@
     display: flex;
     align-items: center;
     gap: 30px;
-    flex-wrap: wrap; /* Allow wrapping for smaller screens */
+    flex-wrap: wrap;
+    /* Allow wrapping for smaller screens */
 }
 
 .skills .skills-row .skills-column {
     flex: 1;
-    min-width: 300px; /* Ensure minimum width for columns */
+    min-width: 300px;
+    /* Ensure minimum width for columns */
 }
 
 .skills .skills-row .skills-column .title {
     font-size: 25px;
     margin: 0 0 20px;
-    text-align: center; /* Center-align titles for better appearance */
+    text-align: center;
+    /* Center-align titles for better appearance */
 }
 
 .skills .skills-row .skills-column .skills-box {
@@ -79,7 +82,8 @@
     height: 100%;
     background: #00abf0;
     border-radius: 3px;
-    width: 0; /* Initial width for animation */
+    width: 0;
+    /* Initial width for animation */
     animation: growBar 2s ease-out forwards;
     animation-delay: 0.5s;
 }
@@ -104,7 +108,8 @@
     }
 
     .skills .skills-box .progress .bar {
-        height: 20px; /* Adjust bar height */
+        height: 20px;
+        /* Adjust bar height */
     }
 }
 
@@ -119,7 +124,8 @@
     }
 
     .skills .skills-column {
-        min-width: 100%; /* Make columns stack vertically */
+        min-width: 100%;
+        /* Make columns stack vertically */
     }
 
     .skills .skills-column .title {
