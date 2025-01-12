@@ -88,6 +88,30 @@
     animation-delay: 0.5s;
 }
 
+#author {
+    width: 100%;
+    margin-top: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    color: inherit;
+    text-transform: uppercase;
+    padding-left: 35px;
+  }
+  #author span {
+    font-size: 10px;
+    margin-left: 20px;
+    color: #00abf0;
+    letter-spacing: 4px;
+  }
+
+  #author h1 {
+    font-size: 25px;
+  }
+
+  
+
 /* Responsive Design */
 /* Responsive Design for Tablets (Max Width 768px) */
 @media (max-width: 768px) {

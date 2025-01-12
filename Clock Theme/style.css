@@ -157,3 +157,7 @@ footer {
     color: inherit;
     letter-spacing: 4px;
   }
+
+  #author h1 {
+    font-size: 25px;
+  }
