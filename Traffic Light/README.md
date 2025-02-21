@@ -20,7 +20,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://java-script-projects05-yr.vercel.app/)
+- [Live Demo Link](https://traffic-light-yr.netlify.app/)
 
 
 ## ⭐️ Show your support 
