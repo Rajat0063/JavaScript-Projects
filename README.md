@@ -1,11 +1,12 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+ <!-- # 50 Projects in 50 Days - HTML/CSS and JavaScript -->
+ # JavaScript Projects - HTML/CSS and JavaScript
 
-This is the main repository for all of the projects in the course.
+<!-- This is the main repository for all of the projects in the course.
 
--   [Course Link](https://www.traversymedia.com/50-Projects-In-50-Days)
+-   [Course Link](https://www.traversymedia.com/50-Projects-In-50-Days) -->
 
 
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
+|  #  | Projects                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Clock Theme](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Clock%20Theme)                             | [Live Demo](https://clock-theme-yr.netlify.app/)               |
 | 02  | [Decimal to Binary](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Decimal%20to%20Binary)                               | [Live Demo](https://decimal-to-binary-yr.netlify.app/)                |
