@@ -1,1 +1,1 @@
-| 01  | [Clock Theme](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Clock%20Theme)                             | [Live Demo](https://rajat0063.github.io/clock-theme/)
+| 01  | [Clock Theme](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Clock%20Theme)                             | [Live Demo](https://java-script-projects-eight-ebon.vercel.app//projects/Clock-Theme/)
