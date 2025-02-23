@@ -8,11 +8,11 @@
 
 |  #  | Projects                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Clock Theme](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Clock%20Theme)                             | [Live Demo](https://clock-theme-yr.netlify.app/)               |
-| 02  | [Decimal to Binary](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Decimal%20to%20Binary)                               | [Live Demo](https://decimal-to-binary-yr.netlify.app/)                |
-| 03  | [Skills Section Design](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Skills%20Section%20Design)                       | [Live Demo](https://skills-section-design-yr.netlify.app/) |
-| 04  | [Snake Game](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Snake%20Game)                          | [Live Demo](https://snake-game-yr.netlify.app/)          |
-| 05  | [Traffic Light](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Traffic%20Light)                               | [Live Demo](https://traffic-light-yr.netlify.app/)                |
+| 01  | [Clock Theme](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Clock%20Theme)                             | [Live Demo](https://js-clock-theme-yr.netlify.app/)               |
+| 02  | [Decimal to Binary](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Decimal%20to%20Binary)                               | [Live Demo](https://js-decimal-to-binary-yr.netlify.app/)                |
+| 03  | [Skills Section Design](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Skills%20Section%20Design)                       | [Live Demo](https://js-skills-section-design-yr.netlify.app/) |
+| 04  | [Snake Game](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Snake%20Game)                          | [Live Demo](https://js-snake-game-yr.netlify.app/)          |
+| 05  | [Traffic Light](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Traffic%20Light)                               | [Live Demo](https://js-traffic-light-yr.netlify.app/)                |
 | 06  | [Weather App]()                           | [Live Demo]()              |
 | 07  | [empty]()                       | [Live Demo]()            |
 | 08  | [empty]()                                         | [Live Demo]()                     |

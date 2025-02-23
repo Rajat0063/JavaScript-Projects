@@ -20,7 +20,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://snake-game-yr.netlify.app/)
+- [Live Demo Link](https://js-snake-game-yr.netlify.app/)
 
 
 ## ⭐️ Show your support 

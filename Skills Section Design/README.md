@@ -19,7 +19,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://skills-section-design-yr.netlify.app/)
+- [Live Demo Link](https://js-skills-section-design-yr.netlify.app/)
 
 
 ## ⭐️ Show your support 

@@ -20,7 +20,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://clock-theme-yr.netlify.app/)
+- [Live Demo Link](https://js-clock-theme-yr.netlify.app/)
 
 
 ## ⭐️ Show your support 
